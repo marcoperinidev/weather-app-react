@@ -1,3 +1,14 @@
+#Weather React App using waetherapi.org 
+
+
+![weatherapp-screen](https://user-images.githubusercontent.com/107396314/213304279-08c92870-0ae2-4e06-b03a-bed5a84bc223.png)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
